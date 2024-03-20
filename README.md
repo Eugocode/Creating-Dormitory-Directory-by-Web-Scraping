@@ -10,6 +10,8 @@ Student or workers often face challenges in finding suitable dormitory accommoda
 
 At this moment, the collected data are on its initial stage. Only few dormitories are listed. With this regular updates are needed. Also, data validation and cleaning should be done to ensure the accuracy and reliability of the scraped information. On the next stages of this project, user-friendly interface or application can be created where students can search, filter, and compare dormitory options more effectively.
 
+_Scrapy was framework from Python is used to scrape data from the web._ 
+
 _Sources of the Data:_
 
 https://maniladormitory.com/
