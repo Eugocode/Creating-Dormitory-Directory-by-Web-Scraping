@@ -1,8 +1,6 @@
 # Centralized Dorm Directory - A Web-Scraped Directory
 
-Creating Manila Dormitory Directory by scraping data from the web.
-
-Find the best Manila Dormitory for you! If you’re a student attending school in Manila, chances are you will need to find a place to stay. Dormitories are a popular option for many students, as they offer a sense of community and support that can be hard to come by when living on your own. But with so many dormitories to choose from, it can be hard to know where to start. That’s why we’ve put together this comprehensive guide for your best dormitory in Manila. Read on to learn more!
+Link to the Centralized Dorm Directory: https://github.com/Eugocode/Creating-Dormitory-Directory-by-Web-Scraping/blob/main/dormitoryscraper/dorm_directory.csv
 
 ## About the project:
 
