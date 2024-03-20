@@ -1,4 +1,4 @@
-# Centralized Dorm Directory - A Web-Scraped Directory
+# Centralized Dorm Directory - A Web-Scraped Directory 🏠
 
 Link to the Centralized Dorm Directory: https://github.com/Eugocode/Creating-Dormitory-Directory-by-Web-Scraping/blob/main/dormitoryscraper/dorm_directory.csv
 
