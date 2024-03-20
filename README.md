@@ -1,4 +1,4 @@
-# Centralized Dorm Directory: - A Web-Scraped Directory
+# Centralized Dorm Directory - A Web-Scraped Directory
 
 Creating Manila Dormitory Directory by scraping data from the web.
 
